@@ -1,6 +1,6 @@
 {
-    "name": "pear/pager",
-    "description": "Data paging class",
+    "name": "imrelaszlo/pear-pager",
+    "description": "Data paging class (PHP 8.1+ comatibility)",
     "license": "BSD",
     "homepage": "http://pear.php.net/package/Pager",
     "support": {
@@ -17,6 +17,10 @@
             "email": "richard@phpguru.org",
             "name": "Richard Heyes",
             "role": "Lead"
+        },
+        {
+          "name": "Laszlo Imre",
+          "email": "it@imrelaszlo.hu"
         }
     ],
     "autoload": {
